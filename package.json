@@ -1,0 +1,28 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "init": "^0.1.2",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakkanojia/Node-practice-.git"
+  },
+  "author": "Deepak kanojia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakkanojia/Node-practice-/issues"
+  },
+  "homepage": "https://github.com/deepakkanojia/Node-practice-#readme"
+}
